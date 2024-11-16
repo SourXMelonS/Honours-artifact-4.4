@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HonoursArtifact",
+			"Path": "..\\Source\\HonoursArtifact.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HonoursArtifactEditor",
+			"Path": "..\\Source\\HonoursArtifactEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

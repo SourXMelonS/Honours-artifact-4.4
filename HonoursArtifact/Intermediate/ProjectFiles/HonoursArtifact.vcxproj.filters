@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HonoursArtifact.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HonoursArtifact.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HonoursArtifactEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HonoursArtifact">
+      <UniqueIdentifier>{BC736330-4EE3-3AC2-9DE9-A7378719DFBF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HonoursArtifact\HonoursArtifact.Build.cs">
+      <Filter>Source\HonoursArtifact</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HonoursArtifact\HonoursArtifact.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\HonoursArtifact.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\HonoursArtifactCharacter.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\HonoursArtifactCharacter.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\HonoursArtifactGameMode.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\HonoursArtifactGameMode.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\HonoursArtifactPlayerController.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\HonoursArtifactPlayerController.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\HonoursArtifactProjectile.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\HonoursArtifactProjectile.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\TP_PickUpComponent.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\TP_PickUpComponent.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursArtifact\TP_WeaponComponent.cpp">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursArtifact\TP_WeaponComponent.h">
+      <Filter>Source\HonoursArtifact</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

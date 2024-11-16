@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\source\\honoursartifact\\honoursartifact.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\x64\\honoursartifacteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\honoursartifact\\definitions.honoursartifact.h",
+            "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\source\\honoursartifact\\honoursartifact.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

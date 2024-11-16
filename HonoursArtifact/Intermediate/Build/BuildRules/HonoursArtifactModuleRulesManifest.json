@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\camer\\Documents\\Unreal Projects\\HonoursArtifact\\Source\\HonoursArtifact\\HonoursArtifact.Build.cs",
+		"C:\\Users\\camer\\Documents\\Unreal Projects\\HonoursArtifact\\Source\\HonoursArtifact.Target.cs",
+		"C:\\Users\\camer\\Documents\\Unreal Projects\\HonoursArtifact\\Source\\HonoursArtifactEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

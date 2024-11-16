@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\unrealeditor\\inc\\honoursartifact\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\x64\\honoursartifacteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\honoursartifact\\definitions.honoursartifact.h",
+            "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\source\\honoursartifact\\tp_weaponcomponent.h",
+            "c:\\users\\camer\\documents\\unreal projects\\honoursartifact\\intermediate\\build\\win64\\unrealeditor\\inc\\honoursartifact\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

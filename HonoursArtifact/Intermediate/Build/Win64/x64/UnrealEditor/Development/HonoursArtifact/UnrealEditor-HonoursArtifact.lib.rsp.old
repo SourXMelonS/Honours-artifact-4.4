@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HonoursArtifact.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\HonoursArtifactEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifact.init.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactCharacter.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactGameMode.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactPlayerController.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactProjectile.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifact.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactCharacter.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactGameMode.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactPlayerController.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\HonoursArtifactProjectile.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\TP_PickUpComponent.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\TP_WeaponComponent.cpp.obj"
+"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\Default.rc2.res"
+/OUT:"C:\Users\camer\Documents\Unreal Projects\HonoursArtifact\Intermediate\Build\Win64\x64\UnrealEditor\Development\HonoursArtifact\UnrealEditor-HonoursArtifact.lib"
